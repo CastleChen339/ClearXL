@@ -2,7 +2,6 @@
 
 Global Context Fusion for Efficient Haze and Cloud Removal in Ultra-High-Resolution Images 
 
-Source Code and Dataset will soon be released.
 
 ## Features
 
