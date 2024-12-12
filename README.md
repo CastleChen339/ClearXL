@@ -7,7 +7,7 @@ Global Context Fusion for Efficient Haze and Cloud Removal in Ultra-High-Resolut
 
 :rocket: **Tailored for processing large-scale images without losing detail**
 
-![mem_usage](./imgs/mem_usage.svg)
+![mem_usage](./imgs/mem_usage.jpg)
 
 ![res_1](./imgs/res.jpg)
 
