@@ -22,7 +22,7 @@ Source Code and Dataset will soon be released.
 
 **:star: A Visual Attribution Method for Dehazing Tasks**
 
-![lam](./imgs/lam.png)
+![lam](./imgs/lam.jpg)
 
 ------
 
